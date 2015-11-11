@@ -1,0 +1,29 @@
+.booksTable{
+	border: 3px solid #CC0000;
+	background-color: #0099CC;
+	color: white;
+}
+.booksHead{
+	font-family: veradana;
+	font-weight: bold;
+	font-size: 18px;
+}
+.booksData{
+	font-family: Arial;
+	font-size: 16px;
+}
+/**************/
+.writersTable{
+	border: 10px solid #CC3399;
+	background-color: #FFFF00;
+}
+.writersHead{
+	font-family: Georgia;
+	font-weight: bold;
+	font-size: 15px;
+}
+.writersData{
+	font-family: Georgia;
+	font-size: 14px;
+	font-style: italic;
+}
